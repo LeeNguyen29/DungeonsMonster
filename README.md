@@ -3,7 +3,7 @@
 Create a program that allows a user to explore a dungeon maze and fight monsters that they 
 encounter along the way. Use the UML diagram on the next page, the example output, and the 
 descriptions below to help you create your program.
-Classes:
+## Classes:
 1. Entity – abstract - describes a character in the game
 a. an Entity has a name and some hit points (maxHp is the maximum amount of hp an 
 entity can have and hp is initialized to the maxHp).
